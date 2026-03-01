@@ -87,7 +87,7 @@
 }
 
 .banner {
-	background-image: url(img/bg-img-1.jpg);
+	background-image: url(bg-img-1.jpg);
 	/* background-size: cover; */
 	height: 500px;
     width: 100%;
@@ -298,14 +298,14 @@
  }
  
 .banners{
-	background-image: url(images/bg-img-3.jpg);
+	background-image: url(bg-img-3.jpg);
 	background-size: cover;
 	height: 100%;
     width: 100%;
 }
 
 .img{
-    background-image: url(images/bg-img-2.jpg);
+    background-image: url(bg-img-2.jpg);
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -453,3 +453,4 @@ footer{
     .destination-item img{ height: 260px; }
     .search{ position: absolute; width: 970px; margin-left: 250px; }
 }
+
